@@ -9,7 +9,7 @@ ul{
 }
 
 .main-image{
-    background: url('../IDM/3792\ 1.jpg');
+    background: url("3792 1.jpg");
     height: 650px;
     background-repeat: no-repeat;
     background-size: cover;
